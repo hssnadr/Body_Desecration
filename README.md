@@ -8,7 +8,7 @@ Little musical game develop for the GameJam Smartpones & Gesture, organized by C
 
 ###Playing setup  
 * Don't look at the screen  
-* Turn out the lights  
+* Turn off the lights  
 * Turn up the volume  
   
 ###Installation
